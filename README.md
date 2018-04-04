@@ -5,6 +5,8 @@ This project's purpose was to create a dynamic presentation out of HTML, CSS and
 
 Obviously this is nearly impossible as you could put so much content into each slide that would make it impossible to view on a mobile device, but if you design your presentation mobile first, then you never have that issue!
 
+This project is built to work OOTB, so all you have to do is download the project and double-click on the index.html file to start the presentation. Enjoy!
+
 ## Development Notes
 The code is all housed in the index.html file and contains a few example slides. The JavaScript included in the page handles all the logic to auto scroll slides as well as generate and insert the 'Next' and 'Prev' slides. All you have to do is download the project and add a new 'section' each time you need a new slide. For example:
 ```html	
